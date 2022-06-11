@@ -1,3 +1,6 @@
+library(tidyverse)
+
+
 #data tidy from wide data to long data 
 religion_income <- read_delim(
        "http://stat405.had.co.nz/data/pew.txt",
