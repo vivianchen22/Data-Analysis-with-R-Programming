@@ -1,15 +1,15 @@
 # Data-Analysis-with-R-Programming
 IN-CLASS EXERCISE: Data Analysis with R Programming
 
-R is a programming language that can help you in your data analysis process. In this part of the course, you’ll learn about R and RStudio, the environment you’ll use to work in R. You’ll explore the benefits of using R and RStudio as well as the components of RStudio that will help you get started.
+This course is the seventh course in the Google Data Analytics Certificate. These courses will equip you with the skills needed to apply to introductory-level data analyst jobs. In this course, you’ll learn about the programming language known as R. You’ll find out how to use RStudio, the environment that allows you to work with R. This course will also cover the software applications and tools that are unique to R, such as R packages. You’ll discover how R lets you clean, organize, analyze, visualize, and report data in new and more powerful ways.  Current Google data analysts will continue to instruct and provide you with hands-on ways to accomplish common data analyst tasks with the best tools and resources.
 
-Compare and contrast the R programming environment and the RStudio programming environment
-Describe the RStudio programming environment including its components and benefits
-Describe the R programming language and its programming environment
-Describe programming languages and appropriate use including examples
-Download and install R assets to a computer
-Open R and execute a command
-Differentiate between the R Console and R programming environments
-Execute operations in R using mathematical operators such as +, -, *, and /
-Download and use RStudio Desktop
-Demonstrate how to complete basic tasks in R
+Learners who complete this certificate program will be equipped to apply for introductory-level jobs as data analysts. No previous experience is necessary.
+
+By the end of this course, you will:
+ - Examine the benefits of using the R programming language.
+ - Discover how to use RStudio to apply R to your analysis. 
+ - Explore the fundamental concepts associated with programming in R. 
+ - Explore the contents and components of R packages including the Tidyverse package.
+ - Gain an understanding of dataframes and their use in R.
+ - Discover the options for generating visualizations in R.
+ - Learn about R Markdown for documenting R programming.
